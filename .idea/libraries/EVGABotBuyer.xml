@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="EVGABotBuyer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/client-combined-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/selenium-server-standalone-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client-combined-3.141.59-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
